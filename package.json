@@ -1,8 +1,10 @@
 {
   "name": "recipe-app",
+  "homepage": "https://ariesgrey.github.io/Recipe-App/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
