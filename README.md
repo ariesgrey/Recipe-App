@@ -48,3 +48,5 @@ Use the [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
 
 - General Code Organization:
   - Minimal code duplication
+
+### Deployed App: https://recipe-app-acvj.onrender.com
